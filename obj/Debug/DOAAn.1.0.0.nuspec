@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DOAAn</id>
+    <version>1.0.0</version>
+    <authors>DOAAn</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="FontAwesome.Sharp" version="6.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\nguyenkhanghuu\source\repos\DOAAn\bin\Debug\net6.0-windows\DOAAn.runtimeconfig.json" target="lib\net6.0-windows7.0\DOAAn.runtimeconfig.json" />
+    <file src="C:\Users\nguyenkhanghuu\source\repos\DOAAn\bin\Debug\net6.0-windows\DOAAn.dll" target="lib\net6.0-windows7.0\DOAAn.dll" />
+  </files>
+</package>
