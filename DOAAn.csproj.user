@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Chitieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chuongtrinhdaotao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chuyennganh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CirclePictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Danhsachsinhvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diemsosinhvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nganh-ChuyenNganh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nganh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nhom%281%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nhom%282%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nhom%283%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Phanconggiangvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhanQuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quanlilichday.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLiNhanSu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quanlisinhvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quyetdinhsinhvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoundedButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Taichinhvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thongtingiangvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Trang_chu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
